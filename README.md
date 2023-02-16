@@ -12,6 +12,9 @@ Fast-ES is a desktop client for elasticsearch under Windows. With Fast-ES, you c
 - 快捷操作，图形化界面一目了然，省去elasticsearch DSL学习成本，减少查找、编写脚本时间
 - 功能全面，包含数据操作、数据建模、管理监控三大基础功能，另有高级操作扩展补充，覆盖索引、文档相关绝大多数elasticsearch使用场景
 ## 2 what's unique about Fast-ES
+- Get started fast. The desktop client is out-of-the-box, no need to deploy any services.
+- Efficient operation. You can save the learning cost and writing time of Elasticsearch DSL by using a clear GUI instead of writing complex DSL.
+- Full-featured. Fast-es includes three basic functions of data operation, data modeling, cluster management and monitoring, in addition to advanced operations. It can cover most elasticsearch usage scenarios related to indexes and documents
 
 ## 3、功能介绍
 详见：[功能介绍](https://github.com/duzhimin/fast-es/blob/main/docs/instructions.md)
